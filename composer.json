@@ -16,7 +16,7 @@
         }
     ],
     "require": {
-        "aplia/ezpublish-legacy": "dev-master",
+        "runelangseid/ezpublish-legacy": "dev-master",
         "ezsystems/ezpublish-legacy-installer": "^2.0.4",
         "ezsystems/ezpublish-kernel": "^6.11@dev",
         "sensio/distribution-bundle": "^3.0.36|^4.0.6|^5.0.6",
