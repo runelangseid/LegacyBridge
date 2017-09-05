@@ -15,7 +15,6 @@
             "url": "https://github.com/runelangseid/ezpublish-legacy.git"
         }
     ],
-    "minimum-stability": "stable",
     "require": {
         "aplia/ezpublish-legacy": "dev-master",
         "ezsystems/ezpublish-legacy-installer": "^2.0.4",
@@ -39,9 +38,6 @@
         "bin-dir": "bin"
     },
     "extra": {
-        "ezpublish-legacy-dir": "ezpublish_legacy",
-        "branch-alias": {
-            "dev-master": "1.3.x-dev"
-        }
+        "ezpublish-legacy-dir": "ezpublish_legacy"
     }
 }
